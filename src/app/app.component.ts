@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import 'aframe';
+import 'aframe-google-poly-component';
 
 @Component({
   selector: 'app-root',
