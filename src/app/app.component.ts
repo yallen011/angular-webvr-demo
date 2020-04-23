@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import 'aframe';
 import 'aframe-environment-component';
 import 'aframe-google-poly-component';
+import 'aframe-environment-component';
 
 @Component({
   selector: 'app-root',
