@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import 'aframe';
+import 'aframe-environment-component';
 import 'aframe-google-poly-component';
 
 @Component({
